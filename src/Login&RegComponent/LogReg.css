@@ -1,0 +1,8 @@
+.btn{
+font: 14px;
+padding: 4px;
+}
+.btn-success,.btn-danger{
+   
+    margin: 3px
+}
